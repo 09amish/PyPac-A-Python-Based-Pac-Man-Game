@@ -1,5 +1,7 @@
 # PyPac: A Python Based Pac Man Game
 
+<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 Experience the excitement of "PyPac," a modern reinterpretation of the timeless arcade classic. This project brings back the fun of chasing through mazes using the power of Python and Pygame.
 
 ## Table of Contents
